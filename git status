@@ -1,0 +1,23 @@
+[33mcommit f58367a7cf664b22fe721e6dc0f009e85602b594[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Michael Wilson <ebonyprince2014@gmail.com>
+Date:   Wed Apr 17 20:30:57 2024 -0400
+
+    Added Player and Enemy Blueprints
+
+[33mcommit aa8c760113f7c336488f60edabd87cb03bd076ed[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Michael Wilson <ebonyprince2014@gmail.com>
+Date:   Wed Apr 17 19:46:41 2024 -0400
+
+    Added Character and Enemy Inherited Classes
+
+[33mcommit 72beeaf80215ed82b78ec3a795fc6d2fb7abdc39[m
+Author: Michael Wilson <ebonyprince2014@gmail.com>
+Date:   Wed Apr 17 19:16:55 2024 -0400
+
+    The Base Character Class
+
+[33mcommit 1e851513fc43de046d585eb5bc992f4a213050d0[m
+Author: Michael Wilson <ebonyprince2014@gmail.com>
+Date:   Wed Apr 17 16:17:44 2024 -0400
+
+    Initial Project Files
